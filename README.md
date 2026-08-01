@@ -14,6 +14,6 @@ Maple 2015 installation files.
 # 🍁 Maple 2026
 Maple 2026 installation files.
 
-⚠️Note: Keep your internet connection enabled while using the software. Otherwise, a license verification/host error may occur.
+⚠️ Important: Keep your internet connection enabled while using the software. Otherwise, a license verification/host error may occur.
 
 [![Download Maple 2026](https://img.shields.io/badge/Download-Maple%202026-red)](https://mega.nz/file/lzBBhTbJ#7a7vV5X6O6FT4jVkZ9nxOqTWUaB6CsVd-4H6r7MvboA)
