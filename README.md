@@ -2,7 +2,7 @@
 
 # 💻 Software Library
 
-Essential software for learning, research, and productivity.
+A professionally organized collection of software, installation resources, and essential digital tools to support academic excellence, scientific research, programming, engineering, mathematical computing, and professional development.
 </div>
 ---
 
