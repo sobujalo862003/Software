@@ -2,8 +2,7 @@
 
 # 💻 Software Library
 
-A collection of useful software for academic and educational purposes.
-
+Essential software for learning, research, and productivity.
 </div>
 ---
 
