@@ -8,6 +8,11 @@ A collection of useful software for academic and educational purposes.
 ---
 
 # 🍁 Maple 2015
+<p align="left">
+  <a href="https://mega.nz/file/puIXnLSA#-uXBo6Yd8rGc_w1nw7XHbRc1CrRUORpxj-HIAF5-E1U">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Maple_software_logo.svg/512px-Maple_software_logo.svg.png" width="180" alt="Maple Logo">
+  </a>
+</p>
 Maple 2015 installation files.
 
 [![Download Maple 2015](https://img.shields.io/badge/Download-Maple%202015-green)](https://mega.nz/file/puIXnLSA#-uXBo6Yd8rGc_w1nw7XHbRc1CrRUORpxj-HIAF5-E1U)
