@@ -12,6 +12,7 @@ A professionally organized collection of software, installation resources, and e
     <img src="images/Maple-logo.png" width="180" alt="Maple Logo">
   </a>
 </p>
+
 A powerful mathematical computing environment designed for symbolic computation, numerical analysis, visualization, and engineering applications.
 
 
@@ -22,6 +23,7 @@ A powerful mathematical computing environment designed for symbolic computation,
     <img src="images/Maple-logo.png" width="180" alt="Maple Logo">
   </a>
 </p>
+
 A powerful mathematical computing environment designed for symbolic computation, numerical analysis, visualization, and engineering applications.
 
 ⚠️ Important: Keep your internet connection enabled while using the software. Otherwise, a license verification/host error may occur.
@@ -34,6 +36,7 @@ A powerful mathematical computing environment designed for symbolic computation,
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="180" alt="MATLAB Logo">
   </a>
 </p>
+
 A high-performance numerical computing platform widely used for data analysis, mathematical modeling, simulation, algorithm development, and engineering research.
 
 
