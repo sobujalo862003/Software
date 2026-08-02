@@ -9,7 +9,7 @@ A professionally organized collection of software, installation resources, and e
 # Maple 2015
 <p align="left">
   <a href="https://mega.nz/file/puIXnLSA#-uXBo6Yd8rGc_w1nw7XHbRc1CrRUORpxj-HIAF5-E1U">
-    <img src="images/maple-logo.png" width="180" alt="Maple Logo">
+    <img src="images/Maple-logo.png" width="180" alt="Maple Logo">
   </a>
 </p>
 A powerful mathematical computing environment designed for symbolic computation, numerical analysis, visualization, and engineering applications.
@@ -18,7 +18,7 @@ A powerful mathematical computing environment designed for symbolic computation,
 # Maple 2026
 <p align="left">
   <a href="https://mega.nz/file/lzBBhTbJ#7a7vV5X6O6FT4jVkZ9nxOqTWUaB6CsVd-4H6r7MvboA">
-    <img src="images/maple-logo.png" width="180" alt="Maple Logo">
+    <img src="images/Maple-logo.png" width="180" alt="Maple Logo">
   </a>
 </p>
 A powerful mathematical computing environment designed for symbolic computation, numerical analysis, visualization, and engineering applications.
