@@ -6,7 +6,7 @@ A professionally organized collection of software, installation resources, and e
 </div>
 ---
 
-# Maple 2015
+# 🍁 Maple 2015
 <p align="left">
   <a href="https://mega.nz/file/puIXnLSA#-uXBo6Yd8rGc_w1nw7XHbRc1CrRUORpxj-HIAF5-E1U">
     <img src="images/Maple-logo.png" width="180" alt="Maple Logo">
@@ -17,7 +17,7 @@ A powerful mathematical computing environment designed for symbolic computation,
 
 
 [![Download Maple 2015](https://img.shields.io/badge/Download-Maple%202015-green)](https://mega.nz/file/puIXnLSA#-uXBo6Yd8rGc_w1nw7XHbRc1CrRUORpxj-HIAF5-E1U)
-# Maple 2026
+# 🍁 Maple 2026
 <p align="left">
   <a href="https://mega.nz/file/lzBBhTbJ#7a7vV5X6O6FT4jVkZ9nxOqTWUaB6CsVd-4H6r7MvboA">
     <img src="images/Maple-logo.png" width="180" alt="Maple Logo">
@@ -30,7 +30,7 @@ The latest version of Maple for symbolic computation, numerical analysis, visual
 
 [![Download Maple 2026](https://img.shields.io/badge/Download-Maple%202026-red)](https://mega.nz/file/lzBBhTbJ#7a7vV5X6O6FT4jVkZ9nxOqTWUaB6CsVd-4H6r7MvboA)
 
-# MATLAB
+# 📊 MATLAB
 <p align="left">
   <a href="https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="180" alt="MATLAB Logo">
@@ -43,7 +43,7 @@ A high-performance numerical computing platform widely used for data analysis, m
 
 [![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
 
-## 🧮 Wolfram Mathematica
+# 🧮 Wolfram Mathematica
 
 A powerful computational system for symbolic mathematics, numerical analysis, visualization, and scientific research.
 
