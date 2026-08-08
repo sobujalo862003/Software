@@ -53,4 +53,4 @@ A powerful computational system for symbolic mathematics, numerical analysis, vi
   </a>
 </p>
 
-[![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
+[![Download MATLAB](https://img.shields.io/badge/Download-MATLAB-blue)](https://img.shields.io/badge/Download-MATLAB-blue)
